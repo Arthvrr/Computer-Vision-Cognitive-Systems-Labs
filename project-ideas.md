@@ -1,0 +1,3 @@
+# Assistant d'étude avec suivi d'attention (On-Device AI)
+
+Développez un modèle de pose estimation ou d'analyse du regard (eye-tracking) léger en PyTorch, puis exportez-le pour le faire tourner nativement sur puce Apple Silicon (via CoreML). L'application macOS/iOS utiliserait la webcam pour analyser le niveau de concentration en temps réel lors des sessions de révision, déclenchant des pauses intelligentes sans jamais envoyer les données vidéo sur un serveur.
