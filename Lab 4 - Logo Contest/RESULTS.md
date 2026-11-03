@@ -1,7 +1,9 @@
 BASELINE RESULTS
 Average Precision (AP):
-Coca-Cola ===> 0.591
-Heineken ===> 0.823
-Marlboro ===> 0.788
-Starbucks ===> 0.867
-Mean Average Precision (mAP) ===> 0.767
+
+Cocacola   ===>  0.792
+Heineken   ===>  0.838
+Marlboro   ===>  0.728
+Starbucks  ===>  0.928
+
+Mean Average Precision (mAP) ===> 0.822
