@@ -13,3 +13,15 @@
 # Le redimensionnement des images à des résolutions plus élevées (comme 800x800) ou en conservant le ratio d'aspect d'origine permet d'augmenter le nombre de points clés détectés sur les traits fins des logos.
 
 # La normalisation du score final, en divisant le nombre d' inliers par le nombre total de points clés de l'image requête, affine le classement de la base de données.
+
+1. tester valeur lowe ratio treshold avec grid search 0.0->1.0
+
+2. modifier paramètres par défaut de SIFT.create()
+
+3. Modifier la manière de calculer le score des matches
+
+4. Modifier taille des images
+
+5. Ajouter RANSAC
+
+6. valeur de lowe ratio spécifique pour chaque logo
