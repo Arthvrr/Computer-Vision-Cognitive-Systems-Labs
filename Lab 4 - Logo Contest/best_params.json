@@ -1,11 +1,9 @@
 {
-    "mAP": 0.8736659809975086,
+    "mAP": 0.8900014270639036,
     "sift_params": {
-        "nfeatures": 600,
-        "nOctaveLayers": 3,
-        "contrastThreshold": 0.05,
-        "edgeThreshold": 5,
-        "sigma": 1.2
+        "nfeatures": 0,
+        "contrastThreshold": 0.02,
+        "edgeThreshold": 10
     },
-    "ratio_thresh": 0.7000000000000001
+    "ratio_thresh": 0.8
 }
